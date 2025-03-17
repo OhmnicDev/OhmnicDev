@@ -14,6 +14,6 @@ class Ohmnic:
     def say_hello(self):
         return "Hello, world! Welcome to my GitHub."
 
-if name == "__main__":
+if __name__ == "__main__":
     me = Ohmnic()
     print(me.say_hello())
