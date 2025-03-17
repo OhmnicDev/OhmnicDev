@@ -1,7 +1,5 @@
 # Ohmnic - Python/Web Developer 🐍💻  
 
-👋 Hello, world! Welcome to my GitHub profile.  
-
 ```python
 class Ohmnic:
     def __init__(self):
