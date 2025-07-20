@@ -8,7 +8,7 @@ class Ohmnic:
         self.os = "Linux User"
         self.skills = ["Python", "HTML", "CSS", "JS", "Bash"]
         self.interests = ["Scripts", "Telegram Bots", "Websites"]
-        self.contact = {"Telegram": "@Ohmnic"}
+        self.contact = {"Telegram": "@OhmnicDev"}
         self.loves = "Tea 🍵"
 
     def say_hello(self):
