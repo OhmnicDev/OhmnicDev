@@ -1,5 +1,6 @@
-#📡 Ohmnic — Python / Web Developer
+# 📡 **Ohmnic — Python / Linux Developer**
 
+```python
 class Ohmnic:
     def __init__(self):
         self.name = "Ohmnic"
@@ -14,4 +15,5 @@ class Ohmnic:
 if __name__ == "__main__":
     me = Ohmnic()
     print(me.hello())
+
 
