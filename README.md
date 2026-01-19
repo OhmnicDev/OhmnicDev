@@ -7,7 +7,7 @@ class Ohmnic:
         self.role = "Python / Web Developer"
         self.os = "Linux"
         self.stack = ["Python", "HTML", "CSS", "JavaScript", "Bash"]
-        self.interests = ["Radio engineering", "Linux systems", "Automation", "DevOps"]
+        self.interests = ["Radio engineering", "Linux systems", "CyberSecurity", "DevOps"]
 
     def hello(self):
         return "Welcome to my GitHub."
