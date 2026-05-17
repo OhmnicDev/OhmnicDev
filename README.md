@@ -4,10 +4,10 @@
 class Ohmnic:
     def __init__(self):
         self.name = "Ohmnic"
-        self.role = "Python / Web Developer"
+        self.role = "Python Developer"
         self.os = "Linux"
-        self.stack = ["Python", "HTML", "CSS", "JavaScript", "Bash"]
-        self.interests = ["Radio engineering", "Linux systems", "CyberSecurity", "DevOps"]
+        self.stack = ["Python", "Bash"]
+        self.interests = ["Linux systems", "CyberSecurity", "DevOps", "Radio engineering",]
 
     def hello(self):
         return "Welcome to my GitHub."
