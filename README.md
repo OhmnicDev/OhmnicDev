@@ -1,4 +1,4 @@
-#**Ohmnic**
+**Ohmnic**
 
 ```python
 class Ohmnic:
