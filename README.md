@@ -10,7 +10,7 @@ class Ohmnic:
         self.interests = ["CyberSecurity","Linux systems", "DevOps", "Radio engineering",]
 
     def hello(self):
-        return "Welcome to my GitHub."
+        return "Welcome to my GitHub"
 
 if __name__ == "__main__":
     me = Ohmnic()
